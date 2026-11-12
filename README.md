@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siang+Woo+%F0%9F%91%BE;Fintech+%2B+AI+student+%40+SIT+Singapore;I+find+the+problem+worth+solving;Idea+%E2%86%92+architecture+%E2%86%92+pitch;6+hackathons+and+counting;Now+playing%3A+SingHacks+2026+finals" alt="Hi, I'm Siang Woo. Fintech + AI student at SIT Singapore. I find the problem worth solving, then take it from idea to architecture to pitch." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=E0A82E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siang+Woo+%F0%9F%91%BE;Fintech+%2B+AI+student+%40+SIT+Singapore;I+find+the+problem+worth+solving;Idea+%E2%86%92+architecture+%E2%86%92+pitch;6+hackathons+and+counting;Now+playing%3A+SingHacks+2026+finals" alt="Hi, I'm Siang Woo. Fintech + AI student at SIT Singapore. I find the problem worth solving, then take it from idea to architecture to pitch." />
 
 </div>
 
@@ -116,6 +116,7 @@ Pitching in the finals on 18 Nov. More after the results.
 ## 📫 Connect
 
 <a href="https://www.linkedin.com/in/siah-business"><img src="https://img.shields.io/badge/LinkedIn-Siang_Woo-0A66C2?style=for-the-badge&labelColor=0d1117" alt="Siang Woo on LinkedIn" /></a>
+<a href="https://x.com/wooogydev"><img src="https://img.shields.io/badge/X-@wooogydev-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="@wooogydev on X" /></a>
 
 ```console
 siangwoo@sit:~$ echo "thanks for stopping by"
