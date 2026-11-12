@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siang+Woo+%F0%9F%91%BE;Fintech+%2B+AI+student+%40+SIT+Singapore;I+find+the+problem+worth+solving;Idea+%E2%86%92+architecture+%E2%86%92+pitch;6+hackathons+and+counting;Now+playing%3A+SingHacks+2026+finals" alt="Hi, I'm Siang Woo. Fintech + AI student at SIT Singapore. I find the problem worth solving, then take it from idea to architecture to pitch." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siang+Woo+%F0%9F%91%BE;Fintech+%2B+AI+student+%40+SIT+Singapore;I+find+the+problem+worth+solving;Idea+%E2%86%92+architecture+%E2%86%92+pitch;6+hackathons+and+counting;Now+playing%3A+SingHacks+2026+finals" alt="Hi, I'm Siang Woo. Fintech + AI student at SIT Singapore. I find the problem worth solving, then take it from idea to architecture to pitch." />
 
 </div>
 
@@ -103,7 +103,7 @@ Pitching in the finals on 18 Nov. More after the results.
 
 <img src="https://img.shields.io/badge/Common_Ground_Makeathon-People's_Choice-eab308?style=for-the-badge&labelColor=0d1117" alt="Common Ground Makeathon: People's Choice Award" />
 <img src="https://img.shields.io/badge/AWS_Student_AI_Demo_Challenge-Top_6-ff9900?style=for-the-badge&labelColor=0d1117" alt="AWS Student AI Demo Challenge 2026: Top 6" />
-<img src="https://img.shields.io/badge/SingHacks_2026-Finalist-22c55e?style=for-the-badge&labelColor=0d1117" alt="SingHacks 2026 Finalist" />
+<img src="https://img.shields.io/badge/SingHacks_2026-Finalist-e11d48?style=for-the-badge&labelColor=0d1117" alt="SingHacks 2026 Finalist" />
 <br/>
 <img src="https://img.shields.io/badge/65Labs_x_Reap-Agentic_Buildathon-a855f7?style=for-the-badge&labelColor=0d1117" alt="65Labs x Reap Agentic Buildathon 2026" />
 <img src="https://img.shields.io/badge/WeMakeDevs-Flip_the_Switch-2563eb?style=for-the-badge&labelColor=0d1117" alt="WeMakeDevs Flip the Switch" />
