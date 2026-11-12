@@ -113,6 +113,10 @@ Pitching in the finals on 18 Nov. More after the results.
 
 <img src="https://skillicons.dev/icons?i=python,ts,java,react,vite,godot,aws,git,vscode&theme=dark" alt="Python, TypeScript, Java, React, Vite, Godot, AWS, Git, VS Code" />
 
+## 📫 Connect
+
+<a href="https://www.linkedin.com/in/siah-business"><img src="https://img.shields.io/badge/LinkedIn-Siang_Woo-0A66C2?style=for-the-badge&labelColor=0d1117" alt="Siang Woo on LinkedIn" /></a>
+
 ```console
 siangwoo@sit:~$ echo "thanks for stopping by"
 thanks for stopping by
