@@ -1,8 +1,18 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg" width="1000" alt="Siang Woo" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=E0A82E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Siang+Woo+%F0%9F%91%BE;Fintech+%2B+AI+student+%40+SIT+Singapore;I+find+the+problem+worth+solving;Idea+%E2%86%92+architecture+%E2%86%92+pitch;6+hackathons+and+counting;Now+playing%3A+SingHacks+2026+finals" alt="Hi, I'm Siang Woo. Fintech + AI student at SIT Singapore. I find the problem worth solving, then take it from idea to architecture to pitch." />
+<p align="center">
+  <a href="https://www.linkedin.com/in/siah-business"><img src="https://img.shields.io/badge/LinkedIn-Siang_Woo-0A66C2?style=for-the-badge&labelColor=0d1117" alt="Siang Woo on LinkedIn" /></a>
+  <a href="https://x.com/wooogydev"><img src="https://img.shields.io/badge/X-@wooogydev-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="@wooogydev on X" /></a>
+</p>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=F5B21B&center=true&vCenter=true&width=600&lines=Fintech+%2B+AI+student+%40+SIT+Singapore;I+find+the+problem+worth+solving;Idea+%E2%86%92+architecture+%E2%86%92+pitch;6+hackathons+and+counting;Now+playing%3A+SingHacks+2026+finals" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=B7791F&center=true&vCenter=true&width=600&lines=Fintech+%2B+AI+student+%40+SIT+Singapore;I+find+the+problem+worth+solving;Idea+%E2%86%92+architecture+%E2%86%92+pitch;6+hackathons+and+counting;Now+playing%3A+SingHacks+2026+finals" alt="Fintech + AI student at SIT Singapore. I find the problem worth solving, then take it from idea to architecture to pitch." />
+</picture>
+</p>
 
 ```console
 siangwoo@sit:~$ whoami
@@ -112,11 +122,6 @@ Pitching in the finals on 18 Nov. More after the results.
 ## 🧰 What my teams build with
 
 <img src="https://skillicons.dev/icons?i=python,ts,java,react,vite,godot,aws,git,vscode&theme=dark" alt="Python, TypeScript, Java, React, Vite, Godot, AWS, Git, VS Code" />
-
-## 📫 Connect
-
-<a href="https://www.linkedin.com/in/siah-business"><img src="https://img.shields.io/badge/LinkedIn-Siang_Woo-0A66C2?style=for-the-badge&labelColor=0d1117" alt="Siang Woo on LinkedIn" /></a>
-<a href="https://x.com/wooogydev"><img src="https://img.shields.io/badge/X-@wooogydev-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="@wooogydev on X" /></a>
 
 ```console
 siangwoo@sit:~$ echo "thanks for stopping by"
